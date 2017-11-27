@@ -1,5 +1,5 @@
 theme : night
 theme-override : assets/css/PITCHME.css
-background : assets/images/wallpaper.jpg
+background : assets/md/assets/wallpaper.jpg
 transition : none
 published : true
