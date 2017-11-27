@@ -1,15 +1,6 @@
 theme : night
 theme-override : assets/css/PITCHME.css
-<<<<<<< HEAD
 background : assets/images/wallpaper.jpg
 logo : assets/images/logo.png
 transition : none
 published : true
-=======
-background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
-logo : assets/img/logo-banten.png
-highlight : mono-blue
-footnote : "<a href='#/2'>Presentation Forum Data</a>"
-custom-size-config : auto
-published : true
->>>>>>> 81969372cccfbaf3b293993328a5cb9c3819f9d8
